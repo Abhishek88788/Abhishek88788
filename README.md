@@ -1,7 +1,7 @@
 # Hi, I'm ABHISHEK! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Cybersecurity+Enthusiast+%26+Hacker!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+Profile!;work+in+progress+!!+%26+Hacker!" alt="Typing SVG">
 </p>
 
 <p align="center">

@@ -1,57 +1,39 @@
-# Hi, I'm ABHISHEK! 👋
-
+<!-- Top GIF Banner (Hacker) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+Profile!;work+in+progress+!!" alt="Typing SVG">
+  <img src="https://i.gifer.com/X5NY.gif" alt="Hacker Animation" width="300"/>
 </p>
 
+<!-- Introduction Section -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/Abhishek88788/yourrepository/main/banner.png" alt="Hacker Banner">
+  <strong>Hi, I'm Abhishek 👨‍💻</strong><br>
+  Cybersecurity enthusiast and tech explorer. <br>
+  Passionate about building smarter, secure systems. 
 </p>
 
-## 🛠️ Technologies & Tools
-
+<!-- Tech Stack Section -->
+<h3 align="center">🛠️ Tools & Technologies</h3>
 <p align="center">
-  <!-- Top of the pyramid -->
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
-
-  <!-- Second row -->
-  <br>
-  <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-
-  <!-- Third row -->
-  <br>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
-
-  <!-- Fourth row -->
-  <br>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-
-  <!-- Base of the pyramid -->
-  <br>
-  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Shell Scripting" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" />
 </p>
 
-## 📈 GitHub Stats
-
+<!-- Bottom GIF (Car Drive Loop) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek88788&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek88788&theme=radical" alt="GitHub Streak" width="400"/>
+  <img src="https://i.gifer.com/S7hN.gif" alt="Car Drive Loop" width="800"/>
 </p>
 
-## 🔗 Let's Connect
-
+<!-- Footer Links with Functional Animation -->
 <p align="center">
-  <a href="https://www.instagram.com/Abhishek88788" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></a>
-  <a href="https://www.linkedin.com/in/Abhishek88788" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></a>
-  <a href="https://twitter.com/Abhishek88788" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></a>
-  <a href="https://www.facebook.com/Abhishek88788" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/></a>
+  <img src="https://i.gifer.com/origin/36/36b5648e62a39be3cde2bca92811fcdd_w200.gif" alt="Animated Arrow" width="50"/> 
+  <a href="https://github.com/Abhishek88788">Check out my projects</a> 
+  <img src="https://i.gifer.com/origin/36/36b5648e62a39be3cde2bca92811fcdd_w200.gif" alt="Animated Arrow" width="50"/>
 </p>
-
-## 🔥 Hacker Vibe
-
-```markdown
+<p align="center">
+  <img src="https://i.gifer.com/origin/0b/0b13104c61b823676fc6d732d3e7f9d4_w200.gif" alt="Animated Link Icon" width="50"/>
+  <a href="https://www.linkedin.com/in/yourprofile">Connect with me on LinkedIn</a>
+  <img src="https://i.gifer.com/origin/0b/0b13104c61b823676fc6d732d3e7f9d4_w200.gif" alt="Animated Link Icon" width="50"/>
+</p>

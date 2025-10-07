@@ -1,4 +1,5 @@
 <!-- Welcome Section -->
+🚧 **Work in Progress:** This profile README is outdated. Check back later for updates!
 <p align="center">
   <img src="https://i.gifer.com/X5NY.gif" alt="Hacker Animation" width="300"/>
 </p>

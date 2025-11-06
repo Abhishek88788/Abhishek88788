@@ -19,10 +19,11 @@ jobs:
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@main
         with:
-          USERNAME: Abhishek88788             # 👈 your GitHub username
-          theme: "night-green"                # 🎨 choose your theme
+                       
+          theme: "night-green"                
           output: "profile-3d-contrib/profile-night-green.svg"
         env:
+          USERNAME: Abhishek88788 
           GITHUB_TOKEN: ${{ secrets.PROFILE_PAT }}
 
       # Step 3: Commit and push the generated SVG back to repo

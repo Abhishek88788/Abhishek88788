@@ -1,5 +1,9 @@
 # 👋 Hey there, I'm Abhishek!
-![3D GitHub Contributions](https://raw.githubusercontent.com/Abhishek88788/Abhishek88788/main/spotify-data-card.svg)
+
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=3127musfbtrze54ldwgox42scco4">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=3127musfbtrze54ldwgox42scco4" alt="Data Card for Spotify">
+</a>
 
 <div align="center">
   

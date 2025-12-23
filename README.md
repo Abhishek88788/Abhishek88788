@@ -8,7 +8,7 @@
 <tr>
 <td width="35%" valign="top">
 
-<img src="https://github.com/Abhishek88788.png" width="100%" style="border-radius: 10px;" alt="Profile Picture"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQEd8I7qA9wuSQ/profile-displayphoto-scale_400_400/B4DZfDzT.KHMAg-/0/1751336699758?e=1767830400&v=beta&t=9pzRmsIa4_ZAaT9b211FPuSaII4ldR7fZeDVujOMsqI" width="100%" style="border-radius: 10px;" alt="Profile Picture"/>
 
 ### 📋 QUICK INFO
 
@@ -46,8 +46,8 @@
 
 ### 📫 CONTACT
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-nishad-dev/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.abhisheknagar342@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00F7F7?style=flat&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE.com)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
 
@@ -121,17 +121,9 @@ Building an interactive data visualization platform for business insights
 
 ---
 
-## 🏆 ACHIEVEMENTS
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek88788&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15" width="100%" />
-
----
-
 ## 💡 PHILOSOPHY
 
 > *"First, solve the problem. Then, write the code."* – John Johnson
-
-> *"Security is not a product, but a process."* – Bruce Schneier
 
 </td>
 </tr>
@@ -156,5 +148,3 @@ Building an interactive data visualization platform for business insights
 **⭐ Open to collaboration on innovative projects | 🤝 Let's connect and build something amazing!**
 
 *Last Updated: December 2025*
-
-</di

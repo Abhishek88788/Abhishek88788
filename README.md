@@ -8,7 +8,7 @@
 <tr>
 <td width="35%" valign="top">
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQEd8I7qA9wuSQ/profile-displayphoto-scale_400_400/B4DZfDzT.KHMAg-/0/1751336699758?e=1767830400&v=beta&t=9pzRmsIa4_ZAaT9b211FPuSaII4ldR7fZeDVujOMsqI" width="100%" style="border-radius: 10px;" alt="Profile Picture"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQEd8I7qA9wuSQ/profile-displayphoto-crop_800_800/B4DZfDzT.KHMAI-/0/1751336699651?e=1769644800&v=beta&t=wk8srGmfj6f8Lgo3O_D7yUonjZPNoy2HS7n3XcRLvSU" width="100%" style="border-radius: 10px;" alt="Profile Picture"/>
 
 ### 📋 QUICK INFO
 
